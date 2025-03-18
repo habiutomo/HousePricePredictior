@@ -92,3 +92,4 @@ Performa model dievaluasi menggunakan:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file LICENSE untuk detail.
+habizinnia@gmail.com
